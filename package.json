@@ -1,0 +1,19 @@
+{
+  "name": "nodeshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farmata-sidibe/nodeshop.git"
+  },
+  "author": "Farmata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farmata-sidibe/nodeshop/issues"
+  },
+  "homepage": "https://github.com/Farmata-sidibe/nodeshop#readme"
+}
